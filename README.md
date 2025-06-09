@@ -5,51 +5,6 @@
 
 <div align="center">
 
-Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
+Baconstrap is a fishstrap joke aiming to become a real bootstrapper
 
 
-</div>
-
----
-
-## Key differences from Bloxstrap
-
-- Integrations
-  - Player logs - Players leaving/joining server
-  - Message logs
-- Fast Flags
-  - Flag profiles
-  - Removed editor warnings & flag validation
-  - Roblox menu customization
-  - More presets
-- Channels
-  - Cancelling Roblox upgrades
-  - Channel changer
-  - Channel changer action
-- Appearance
-  - Customizable downloading status
-- Extras
-  - Save last opened settings page
-  - Importing settings from Bloxstrap
-
-### *More changes coming soon!*
-
----
-
-### Considering a switch? [Download it here][repo-latest].
-
-
-[badge-repo-license]:    https://img.shields.io/github/license/returnrqt/fishstrap?style=flat-square
-[badge-repo-workflow]:   https://img.shields.io/github/actions/workflow/status/returnrqt/fishstrap/ci-release.yml?branch=main&style=flat-square&label=builds
-[badge-repo-downloads]:  https://img.shields.io/github/downloads/returnrqt/fishstrap/latest/total?style=flat-square&color=981bfe
-[badge-repo-latest]:     https://img.shields.io/github/v/release/returnrqt/fishstrap?style=flat-square&color=7a39fb
-[badge-repo-stars]:      https://img.shields.io/github/stars/returnrqt/fishstrap?style=flat-square&color=dd9900
-
-[badge-discord]: https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=discord&color=4d3dff
-
-[repo-license]:  https://github.com/returnrqt/fishstrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/returnrqt/fishstrap/actions
-[repo-releases]: https://github.com/returnrqt/fishstrap/releases
-[repo-latest]:   https://github.com/returnrqt/fishstrap/releases/latest
-
-[discord-invite]:  https://discord.gg/SRs5zb9BJd
