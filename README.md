@@ -7,12 +7,6 @@
 
 Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
 
-[![License][badge-repo-license]][repo-license]
-[![Workflow][badge-repo-workflow]][repo-actions]
-[![Downloads][badge-repo-downloads]][repo-releases]
-[![Version][badge-repo-latest]][repo-latest]
-[![Discord][badge-discord]][discord-invite]
-![Stars][badge-repo-stars]
 
 </div>
 
